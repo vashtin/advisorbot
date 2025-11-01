@@ -100,3 +100,38 @@ To connect to the OpenAI API:
     ```
     
 3. Ensure `python-dotenv` is installed (included in requirements.txt)
+
+
+
+
+
+### 🔑 API Key Setup
+
+To use the chatbot with GPT responses, you’ll need your own OpenAI API key.
+
+1. Visit [https://platform.openai.com/api-keys](https://platform.openai.com/api-keys)
+2. Click **Create new secret key**
+3. Copy the key (it starts with `sk-...`)
+4. Inside the `backend/` folder, create a new file named `.env`
+5. Add the following line:
+
+ OPENAI_API_KEY=sk-your-key-here
+
+6. Save and restart the backend:
+```bash
+
+uvicorn main:app --reload
+
+
+💡 You can use .env.example in this repo as a reference for formatting.
+
+
+That’s the clean, professional way everyone handles this in public repos.
+
+---
+
+## 🚫 3️⃣ About using a “free public API” instead
+Unfortunately — **no public or free OpenAI API endpoint** exists.  
+Every GPT call requires a valid key, even for GPT-4o-mini.
+
+
