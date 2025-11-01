@@ -126,12 +126,4 @@ uvicorn main:app --reload
 💡 You can use .env.example in this repo as a reference for formatting.
 
 
-That’s the clean, professional way everyone handles this in public repos.
-
----
-
-## 🚫 3️⃣ About using a “free public API” instead
-Unfortunately — **no public or free OpenAI API endpoint** exists.  
-Every GPT call requires a valid key, even for GPT-4o-mini.
-
 
