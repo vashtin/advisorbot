@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Penn State Academic Assistant</title>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
+  <style>
+    /* ---------- PAGE LAYOUT ---------- */
+    body {
+      font-family: "Segoe UI", Arial, sans-serif;
+      background-color: #b3cbe9; /* Navy blue background */
+      margin: 0;
+      padding: 40px 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+
+    .container {
+      width: 90%;
+      max-width: 900px;
+      background: white;
+      border-radius: 18px;
+      box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+    }
+
+    /* ---------- HEADER ---------- */
+    .header {
+      background-color: #001e44;
+      color: white;
+      text-align: center;
+      padding: 15px;
+      font-size: 1.4rem;
+      font-weight: bold;
+      letter-spacing: 0.5px;
+    }
+
+    /* ---------- CHAT WINDOW ---------- */
+    .chat-window {
+      height: 430px;
+      padding: 20px;
+      overflow-y: auto;
+      background: #f9fbfd;
+      border-bottom: 1px solid #ddd;
+      scroll-behavior: smooth;
+    }
+
+    .message {
+      display: flex;
+      margin-bottom: 15px;
+    }
+
+    .user {
+      justify-content: flex-end;
+    }
+
+    .bubble {
+      max-width: 75%;
+      padding: 12px 15px;
+      border-radius: 15px;
+      line-height: 1.5;
+      word-wrap: break-word;
+    }
+
+    .user .bubble {
+      background-color: #d6e4ff; /* Light blue for user questions */
+      color: #001e44;
+      border-bottom-right-radius: 0;
+    }
+
+    .bot .bubble {
+      background-color: #e8edf5;
+      color: #000;
+      border-bottom-left-radius: 0;
+    }
+
+    .typing .bubble {
+      font-style: italic;
+      color: gray;
+      opacity: 0.8;
+      animation: pulse 1.5s infinite;
+    }
+
+    @keyframes pulse {
+      0% { opacity: 0.5; }
+      50% { opacity: 1; }
+      100% { opacity: 0.5; }
+    }
+
+    /* ---------- INPUT AREA ---------- */
+    .input-area {
+      display: flex;
+      padding: 15px 20px;
+      background-color: #f2f5fa;
+      border-top: 1px solid #ddd;
+    }
+
+    .input-area input {
+      flex: 1;
+      padding: 12px;
+      border-radius: 8px;
+      border: 1px solid #ccc;
+      font-size: 1rem;
+    }
+
+    .input-area button {
+      margin-left: 10px;
+      background-color: #001e44;
+      color: white;
+      border: none;
+      border-radius: 8px;
+      padding: 10px 20px;
+      font-size: 1rem;
+      cursor: pointer;
+      transition: 0.2s;
+    }
+
+    .input-area button:hover {
+      background-color: #003366;
+    }
+
+    /* ---------- SUGGESTED PROMPTS ---------- */
+    .starter-prompts {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin: 10px 0 20px 0;
+      padding-left: 5px;
+    }
+
+    .starter-prompts .suggestion-btn {
+      background: none;
+      border: none;
+      color: #6b7a99;
+      font-size: 0.95rem;
+      cursor: pointer;
+      opacity: 0.75;
+      transition: 0.2s;
+      font-style: italic;
+    }
+
+    .starter-prompts .suggestion-btn:hover {
+      opacity: 1;
+      color: #001e44;
+      text-decoration: underline;
+    }
+
+    /* ---------- FORMATTING IMPROVEMENTS ---------- */
+    .bubble p,
+    .bubble li {
+      margin: 6px 0;
+      line-height: 1.6;
+    }
+
+    .bubble ul,
+    .bubble ol {
+      padding-left: 20px;
+      margin: 8px 0;
+    }
+
+    .bubble strong {
+      color: #001e44;
+      font-weight: 600;
+    }
+
+    .bubble br {
+      display: block;
+      margin-bottom: 8px;
+      content: "";
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <div class="header">Penn State AI Academic Assistant</div>
+
+    <!-- 💬 Chat Window -->
+    <div class="chat-window" id="chatWindow">
+      <div class="message bot">
+        <div class="bubble">
+          👋 Hi there! I’m your Penn State Academic Assistant.<br>
+          You can ask about majors, tuition, or courses — try one of these to get started:
+        </div>
+      </div>
+
+      <div class="starter-prompts" id="starterPrompts">
+        <button class="suggestion-btn">What majors does Penn State offer?</button>
+        <button class="suggestion-btn">Tell me about Computer Science</button>
+        <button class="suggestion-btn">How much is tuition?</button>
+        <button class="suggestion-btn">What are the prerequisites for IST 210?</button>
+        <button class="suggestion-btn">Where can I study Psychology?</button>
+      </div>
+    </div>
+
+    <!-- ✏️ Input Area -->
+    <div class="input-area">
+      <input type="text" placeholder="Type your question here..." />
+      <button>Send</button>
+    </div>
+  </div>
+
+  <!-- 💡 Chat Logic -->
+  <script>
+    const chatWindow = document.querySelector(".chat-window");
+    const input = document.querySelector(".input-area input");
+    const sendBtn = document.querySelector(".input-area button");
+    const API_URL = "http://127.0.0.1:8000/chat";
+
+    // Helper: add formatted message
+    function addMessage(text, sender = "bot") {
+      const msg = document.createElement("div");
+      msg.classList.add("message", sender);
+      const bubble = document.createElement("div");
+      bubble.classList.add("bubble");
+
+      // ✅ Use Markdown formatting and preserve spacing
+      bubble.innerHTML = marked.parse(text.replace(/\n{2,}/g, "\n\n"));
+      msg.appendChild(bubble);
+      chatWindow.appendChild(msg);
+      chatWindow.scrollTop = chatWindow.scrollHeight;
+    }
+
+    // Typing indicator
+    function showTyping() {
+      const msg = document.createElement("div");
+      msg.classList.add("message", "bot", "typing");
+      const bubble = document.createElement("div");
+      bubble.classList.add("bubble");
+      bubble.textContent = "AI Assistant is typing...";
+      msg.appendChild(bubble);
+      chatWindow.appendChild(msg);
+      chatWindow.scrollTop = chatWindow.scrollHeight;
+      return msg;
+    }
+
+    // Send message
+    async function sendMessage() {
+      const question = input.value.trim();
+      if (!question) return;
+
+      addMessage(question, "user");
+      input.value = "";
+
+      const starterDiv = document.getElementById("starterPrompts");
+      if (starterDiv) starterDiv.remove();
+
+      const typingBubble = showTyping();
+
+      try {
+        const response = await fetch(API_URL, {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ user_input: question }),
+        });
+
+        const data = await response.json();
+        chatWindow.removeChild(typingBubble);
+
+        if (data.response) {
+          addMessage(data.response, "bot");
+        } else {
+          addMessage("⚠️ No response from the server.", "bot");
+        }
+      } catch (err) {
+        chatWindow.removeChild(typingBubble);
+        addMessage("⚠️ Error connecting to the server.", "bot");
+        console.error(err);
+      }
+    }
+
+    // Event listeners
+    sendBtn.addEventListener("click", sendMessage);
+    input.addEventListener("keypress", (e) => {
+      if (e.key === "Enter") sendMessage();
+    });
+
+    // Starter prompts
+    document.querySelectorAll(".starter-prompts .suggestion-btn").forEach((btn) => {
+      btn.addEventListener("click", () => {
+        input.value = btn.textContent;
+        sendMessage();
+      });
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,223 @@
+/* ---------- GENERAL LAYOUT ---------- */
+
+body {
+  background-color: pink ;
+}
+
+body {
+  font-family: "Segoe UI", Arial, sans-serif;
+  background-color: #f2f5fa;
+  margin: 0;
+  padding: 40px 0;
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  width: 90%;
+  max-width: 900px;
+  background: white;
+  border-radius: 18px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+  overflow: hidden;
+}
+
+/* ---------- HEADER ---------- */
+.header {
+  background-color: #001e44;
+  color: white;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 15px 25px;
+}
+
+.header .logo {
+  width: 40px;
+  height: 40px;
+}
+
+.header h1 {
+  font-size: 1.4rem;
+  margin: 0;
+}
+
+/* ---------- CHAT WINDOW ---------- */
+.chat-window {
+  height: 420px;
+  padding: 20px;
+  overflow-y: auto;
+  background: #f9fbfd;
+  border-bottom: 1px solid #ddd;
+}
+
+.message {
+  display: flex;
+  margin-bottom: 15px;
+}
+
+.user {
+  justify-content: flex-end;
+}
+
+.bubble {
+  max-width: 75%;
+  padding: 12px 15px;
+  border-radius: 15px;
+  line-height: 1.4;
+  word-wrap: break-word;
+}
+
+.user .bubble {
+  background-color: #003366;
+  color: #fff;
+  border-bottom-right-radius: 0;
+}
+
+.bot .bubble {
+  background-color: #e5ecf5;
+  color: #000;
+  border-bottom-left-radius: 0;
+}
+
+/* ---------- INPUT AREA ---------- */
+.input-area {
+  display: flex;
+  padding: 15px 20px;
+  background-color: #fff;
+  border-top: 1px solid #ddd;
+}
+
+.input-area input {
+  flex: 1;
+  padding: 12px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  font-size: 1rem;
+}
+
+.input-area button {
+  margin-left: 10px;
+  background-color: #001e44;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 20px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.input-area button:hover {
+  background-color: #003366;
+}
+
+/* ---------- RECOMMENDED SECTION ---------- */
+.recommend-section {
+  padding: 20px;
+}
+
+.recommend-section h3 {
+  color: #001e44;
+  font-size: 1.1rem;
+  margin-bottom: 12px;
+}
+
+.thumbnails {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.thumb {
+  width: 160px;
+  height: 90px;
+  background-color: #cfd8e3;
+  border-radius: 10px;
+  position: relative;
+  overflow: hidden;
+}
+
+.thumb::after {
+  content: '▶';
+  position: absolute;
+  color: white;
+  font-size: 2rem;
+  top: 25%;
+  left: 40%;
+  opacity: 0.8;
+}
+
+.thumb p {
+  position: absolute;
+  bottom: 0;
+  background: rgba(0,0,0,0.5);
+  color: white;
+  width: 100%;
+  font-size: 0.8rem;
+  text-align: center;
+  margin: 0;
+  padding: 4px 0;
+}
+
+/* ---------- TYPING ANIMATION ---------- */
+.typing .bubble {
+  font-style: italic;
+  color: gray;
+  opacity: 0.8;
+  animation: pulse 1.5s infinite;
+}
+
+@keyframes pulse {
+  0% { opacity: 0.5; }
+  50% { opacity: 1; }
+  100% { opacity: 0.5; }
+}
+
+.suggestion-btn {
+  background: #eef3fb;
+  color: #001e44;
+  border: 1px solid #c3d4ec;
+  border-radius: 6px;
+  padding: 6px 12px;
+  margin: 4px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  transition: all 0.2s ease;
+}
+.suggestion-btn:hover {
+  background: #dbe7ff;
+}
+.starter-prompts {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  margin: 10px 0 15px 15px;
+}
+.starter-prompts .suggestion-btn {
+  margin: 6px;
+}
+
+/* ---------- CHAT FORMATTING IMPROVEMENTS ---------- */
+.bubble p,
+.bubble li {
+  margin: 6px 0;
+  line-height: 1.5;
+}
+
+.bubble ul,
+.bubble ol {
+  padding-left: 20px;
+  margin: 8px 0;
+}
+
+.bubble strong {
+  color: #001e44;
+  font-weight: 600;
+}
+
+.bubble br {
+  display: block;
+  margin-bottom: 8px;
+  content: "";
+}

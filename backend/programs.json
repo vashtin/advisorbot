@@ -1,0 +1,867 @@
+[
+  {
+    "name": "Agribusiness Management, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/agricultural-sciences/agribusiness-management-bs/",
+    "college": "Agricultural Sciences"
+  },
+  {
+    "name": "Agricultural and Biorenewable Systems Management, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/agricultural-sciences/agricultural-biorenewable-systems-management-bs/",
+    "college": "Agricultural Sciences"
+  },
+  {
+    "name": "Agricultural and Extension Education, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/agricultural-sciences/agricultural-extension-education-bs/",
+    "college": "Agricultural Sciences"
+  },
+  {
+    "name": "Agricultural Science, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/agricultural-sciences/agricultural-science-bs/",
+    "college": "Agricultural Sciences"
+  },
+  {
+    "name": "Animal Science, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/agricultural-sciences/animal-science-bs/",
+    "college": "Agricultural Sciences"
+  },
+  {
+    "name": "Community, Environment, and Development, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/agricultural-sciences/community-environment-development-bs/",
+    "college": "Agricultural Sciences"
+  },
+  {
+    "name": "Environmental Resource Management, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/agricultural-sciences/environmental-resource-management-bs/",
+    "college": "Agricultural Sciences"
+  },
+  {
+    "name": "Food Science, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/agricultural-sciences/food-science-bs/",
+    "college": "Agricultural Sciences"
+  },
+  {
+    "name": "Forest Ecosystem Management, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/agricultural-sciences/forest-ecosystem-management-bs/",
+    "college": "Agricultural Sciences"
+  },
+  {
+    "name": "Immunology and Infectious Disease, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/agricultural-sciences/immunology-infectious-disease-bs/",
+    "college": "Agricultural Sciences"
+  },
+  {
+    "name": "Landscape Contracting, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/agricultural-sciences/landscape-contracting-bs/",
+    "college": "Agricultural Sciences"
+  },
+  {
+    "name": "Pharmacology and Toxicology, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/agricultural-sciences/pharmacology-toxicology-bs/",
+    "college": "Agricultural Sciences"
+  },
+  {
+    "name": "Plant Sciences, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/agricultural-sciences/plant-sciences-bs/",
+    "college": "Agricultural Sciences"
+  },
+  {
+    "name": "Turfgrass Science, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/agricultural-sciences/turfgrass-science-bs/",
+    "college": "Agricultural Sciences"
+  },
+  {
+    "name": "Veterinary and Biomedical Sciences, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/agricultural-sciences/veterinary-biomedical-sciences-bs/",
+    "college": "Agricultural Sciences"
+  },
+  {
+    "name": "Wildlife and Fisheries Science, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/agricultural-sciences/wildlife-fisheries-science-bs/",
+    "college": "Agricultural Sciences"
+  },
+  {
+    "name": "Acting, B.F.A.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/arts-architecture/acting-bfa/",
+    "college": "Arts Architecture"
+  },
+  {
+    "name": "Architecture, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/arts-architecture/architecture-bs/",
+    "college": "Arts Architecture"
+  },
+  {
+    "name": "Art Education, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/arts-architecture/art-education-bs/",
+    "college": "Arts Architecture"
+  },
+  {
+    "name": "Art History, B.A.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/arts-architecture/art-history-ba/",
+    "college": "Arts Architecture"
+  },
+  {
+    "name": "Art, B.A. (Arts and Architecture)",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/arts-architecture/art-ba/",
+    "college": "Arts Architecture"
+  },
+  {
+    "name": "Art, B.F.A.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/arts-architecture/art-bfa/",
+    "college": "Arts Architecture"
+  },
+  {
+    "name": "Integrative Arts, B.A. (Arts and Architecture)",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/arts-architecture/integrative-arts-ba/",
+    "college": "Arts Architecture"
+  },
+  {
+    "name": "Music, B.A.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/arts-architecture/music-ba/",
+    "college": "Arts Architecture"
+  },
+  {
+    "name": "Musical Theatre, B.F.A.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/arts-architecture/musical-theatre-bfa/",
+    "college": "Arts Architecture"
+  },
+  {
+    "name": "Theatre, B.A.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/arts-architecture/theatre-ba/",
+    "college": "Arts Architecture"
+  },
+  {
+    "name": "Theatre, B.F.A.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/arts-architecture/theatre-bfa/",
+    "college": "Arts Architecture"
+  },
+  {
+    "name": "Earth Science and Policy, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/earth-mineral-sciences/earth-science-policy-bs/",
+    "college": "Earth Mineral Sciences"
+  },
+  {
+    "name": "Earth Sciences, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/earth-mineral-sciences/earth-sciences-bs/",
+    "college": "Earth Mineral Sciences"
+  },
+  {
+    "name": "Energy and Sustainability Policy, B.A.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/earth-mineral-sciences/energy-sustainability-policy-ba/",
+    "college": "Earth Mineral Sciences"
+  },
+  {
+    "name": "Energy and Sustainability Policy, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/earth-mineral-sciences/energy-sustainability-policy-bs/",
+    "college": "Earth Mineral Sciences"
+  },
+  {
+    "name": "Energy Business and Finance, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/earth-mineral-sciences/energy-business-finance-bs/",
+    "college": "Earth Mineral Sciences"
+  },
+  {
+    "name": "Energy Engineering, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/earth-mineral-sciences/energy-engineering-bs/",
+    "college": "Earth Mineral Sciences"
+  },
+  {
+    "name": "Environmental Systems Engineering, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/earth-mineral-sciences/environmental-systems-engineering-bs/",
+    "college": "Earth Mineral Sciences"
+  },
+  {
+    "name": "Geobiology, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/earth-mineral-sciences/geobiology-bs/",
+    "college": "Earth Mineral Sciences"
+  },
+  {
+    "name": "Geography, B.A.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/earth-mineral-sciences/geography-ba/",
+    "college": "Earth Mineral Sciences"
+  },
+  {
+    "name": "Geography, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/earth-mineral-sciences/geography-bs/",
+    "college": "Earth Mineral Sciences"
+  },
+  {
+    "name": "Geosciences, B.A.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/earth-mineral-sciences/geosciences-ba/",
+    "college": "Earth Mineral Sciences"
+  },
+  {
+    "name": "Geosciences, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/earth-mineral-sciences/geosciences-bs/",
+    "college": "Earth Mineral Sciences"
+  },
+  {
+    "name": "Materials Science and Engineering, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/earth-mineral-sciences/materials-science-engineering-bs/",
+    "college": "Earth Mineral Sciences"
+  },
+  {
+    "name": "Meteorology and Atmospheric Science, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/earth-mineral-sciences/meteorology-atmospheric-science-bs/",
+    "college": "Earth Mineral Sciences"
+  },
+  {
+    "name": "Mining Engineering, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/earth-mineral-sciences/mining-engineering-bs/",
+    "college": "Earth Mineral Sciences"
+  },
+  {
+    "name": "Petroleum and Natural Gas Engineering, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/earth-mineral-sciences/petroleum-natural-gas-engineering-bs/",
+    "college": "Earth Mineral Sciences"
+  },
+  {
+    "name": "Education and Public Policy, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/education/education-public-policy-bs/",
+    "college": "Education"
+  },
+  {
+    "name": "Elementary and Early Childhood Education, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/education/elementary-early-childhood-education-bs/",
+    "college": "Education"
+  },
+  {
+    "name": "Elementary and Kindergarten Education, B.S. (Education)",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/education/elementary-kindergarten-education-bs/",
+    "college": "Education"
+  },
+  {
+    "name": "Middle Level Education, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/education/middle-level-education-bs/",
+    "college": "Education"
+  },
+  {
+    "name": "Rehabilitation and Human Services, B.S. (Education)",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/education/rehabilitation-human-services-bs/",
+    "college": "Education"
+  },
+  {
+    "name": "Secondary Education, B.S. (Education)",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/education/secondary-education-bs/",
+    "college": "Education"
+  },
+  {
+    "name": "Special Education, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/education/special-education-bs/",
+    "college": "Education"
+  },
+  {
+    "name": "Workforce Education and Development, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/education/workforce-education-development-bs/",
+    "college": "Education"
+  },
+  {
+    "name": "World Languages (K-\u200b12) Education, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/education/world-languages-k-12-education-bs/",
+    "college": "Education"
+  },
+  {
+    "name": "Aerospace Engineering, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/engineering/aerospace-engineering-bs/",
+    "college": "Engineering"
+  },
+  {
+    "name": "Artificial Intelligence Engineering, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/engineering/artificial-intelligence-engineering-bs/",
+    "college": "Engineering"
+  },
+  {
+    "name": "Biological Engineering, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/engineering/biological-engineering-bs/",
+    "college": "Engineering"
+  },
+  {
+    "name": "Biomedical Engineering, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/engineering/biomedical-engineering-bs/",
+    "college": "Engineering"
+  },
+  {
+    "name": "Chemical Engineering, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/engineering/chemical-engineering-bs/",
+    "college": "Engineering"
+  },
+  {
+    "name": "Civil Engineering, B.S. (Engineering)",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/engineering/civil-engineering-bs/",
+    "college": "Engineering"
+  },
+  {
+    "name": "Computer Engineering, B.S. (Engineering)",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/engineering/computer-engineering-bs/",
+    "college": "Engineering"
+  },
+  {
+    "name": "Computer Science, B.S. (Engineering)",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/engineering/computer-science-bs/",
+    "college": "Engineering"
+  },
+  {
+    "name": "Data Sciences, B.S. (Engineering)",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/engineering/data-sciences-bs/",
+    "college": "Engineering"
+  },
+  {
+    "name": "Electrical Engineering Technology, B.S. (Engineering)",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/engineering/electrical-engineering-technology-bs/",
+    "college": "Engineering"
+  },
+  {
+    "name": "Electrical Engineering, B.S. (Engineering)",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/engineering/electrical-engineering-bs/",
+    "college": "Engineering"
+  },
+  {
+    "name": "Electro-\u200bMechanical Engineering Technology, B.S. (Engineering)",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/engineering/electro-mechanical-engineering-technology-bs/",
+    "college": "Engineering"
+  },
+  {
+    "name": "Engineering Science, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/engineering/engineering-science-bs/",
+    "college": "Engineering"
+  },
+  {
+    "name": "Engineering, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/engineering/engineering-bs/",
+    "college": "Engineering"
+  },
+  {
+    "name": "Industrial Engineering, B.S. (Engineering)",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/engineering/industrial-engineering-bs/",
+    "college": "Engineering"
+  },
+  {
+    "name": "Mechanical Engineering, B.S. (Engineering)",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/engineering/mechanical-engineering-bs/",
+    "college": "Engineering"
+  },
+  {
+    "name": "Nuclear Engineering, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/engineering/nuclear-engineering-bs/",
+    "college": "Engineering"
+  },
+  {
+    "name": "Surveying Engineering, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/engineering/surveying-engineering-bs/",
+    "college": "Engineering"
+  },
+  {
+    "name": "Biobehavioral Health, B.S. (Health and Human Development)",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/health-human-development/biobehavioral-health-bs/",
+    "college": "Health Human Development"
+  },
+  {
+    "name": "Communication Sciences and Disorders, B.S. (Health and Human Development)",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/health-human-development/communication-sciences-disorders-bs/",
+    "college": "Health Human Development"
+  },
+  {
+    "name": "Health Policy and Administration, B.S. (Health and Human Development)",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/health-human-development/health-policy-administration-bs/",
+    "college": "Health Human Development"
+  },
+  {
+    "name": "Hospitality Management, B.S. (Health and Human Development)",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/health-human-development/hospitality-management-bs/",
+    "college": "Health Human Development"
+  },
+  {
+    "name": "Human Development and Family Studies, B.S. (Health and Human Development)",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/health-human-development/human-development-family-studies-bs/",
+    "college": "Health Human Development"
+  },
+  {
+    "name": "Kinesiology, B.S. (Health and Human Development)",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/health-human-development/kinesiology-bs/",
+    "college": "Health Human Development"
+  },
+  {
+    "name": "Nutritional Sciences, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/health-human-development/nutritional-sciences-bs/",
+    "college": "Health Human Development"
+  },
+  {
+    "name": "Recreation, Park, and Tourism Management, B.S. (Health and Human Development)",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/health-human-development/recreation-park-tourism-management-bs/",
+    "college": "Health Human Development"
+  },
+  {
+    "name": "Systems Neuroscience, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/health-human-development/systems-neuroscience-bs/",
+    "college": "Health Human Development"
+  },
+  {
+    "name": "Artificial Intelligence Methods and Applications, B.S. (Information Sciences and Technology)",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/information-sciences-technology/artificial-intelligence-methods-applications-bs/",
+    "college": "Information Sciences Technology"
+  },
+  {
+    "name": "Cybersecurity Analytics and Operations, B.S. (Information Sciences and Technology)",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/information-sciences-technology/cybersecurity-analytics-operations-bs/",
+    "college": "Information Sciences Technology"
+  },
+  {
+    "name": "Data Sciences, B.S. (Information Sciences and Technology)",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/information-sciences-technology/data-sciences-bs/",
+    "college": "Information Sciences Technology"
+  },
+  {
+    "name": "Enterprise Technology Integration, B.S. (Information Sciences and Technology)",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/information-sciences-technology/enterprise-technology-integration-bs/",
+    "college": "Information Sciences Technology"
+  },
+  {
+    "name": "Human-\u200bCentered Design and Development, B.S. (Information Sciences and Technology)",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/information-sciences-technology/human-centered-design-development-bs/",
+    "college": "Information Sciences Technology"
+  },
+  {
+    "name": "Information Sciences and Technology, B.S. (Information Sciences and Technology)",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/information-sciences-technology/information-sciences-technology-bs/",
+    "college": "Information Sciences Technology"
+  },
+  {
+    "name": "Information Technology Ethics and Compliance, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/information-sciences-technology/information-technology-ethics-compliance-bs/",
+    "college": "Information Sciences Technology"
+  },
+  {
+    "name": "Security and Risk Analysis, B.S. (Information Sciences and Technology)",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/information-sciences-technology/security-risk-analysis-bs/",
+    "college": "Information Sciences Technology"
+  },
+  {
+    "name": "African American Studies, B.A.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/african-american-studies-ba/",
+    "college": "Liberal Arts"
+  },
+  {
+    "name": "African and African American Studies, B.A.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/african-african-american-studies-ba/",
+    "college": "Liberal Arts"
+  },
+  {
+    "name": "African and African American Studies, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/african-african-american-studies-bs/",
+    "college": "Liberal Arts"
+  },
+  {
+    "name": "African Studies, B.A.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/african-studies-ba/",
+    "college": "Liberal Arts"
+  },
+  {
+    "name": "Anthropological Science, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/anthropological-science-bs/",
+    "college": "Liberal Arts"
+  },
+  {
+    "name": "Anthropology, B.A.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/anthropology-ba/",
+    "college": "Liberal Arts"
+  },
+  {
+    "name": "Applied Linguistics, B.A.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/applied-linguistics-ba/",
+    "college": "Liberal Arts"
+  },
+  {
+    "name": "Asian Studies, B.A.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/asian-studies-ba/",
+    "college": "Liberal Arts"
+  },
+  {
+    "name": "Chinese, B.A.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/chinese-ba/",
+    "college": "Liberal Arts"
+  },
+  {
+    "name": "Classics and Ancient Mediterranean Studies, B.A.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/classics-ancient-mediterranean-studies-ba/",
+    "college": "Liberal Arts"
+  },
+  {
+    "name": "Communication Arts and Sciences, B.A. (Liberal Arts)",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/communication-arts-sciences-ba/",
+    "college": "Liberal Arts"
+  },
+  {
+    "name": "Communication Arts and Sciences, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/communication-arts-sciences-bs/",
+    "college": "Liberal Arts"
+  },
+  {
+    "name": "Comparative Literature, B.A.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/comparative-literature-ba/",
+    "college": "Liberal Arts"
+  },
+  {
+    "name": "Criminology, B.A.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/criminology-ba/",
+    "college": "Liberal Arts"
+  },
+  {
+    "name": "Criminology, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/criminology-bs/",
+    "college": "Liberal Arts"
+  },
+  {
+    "name": "Economics, B.A. (Liberal Arts)",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/economics-ba/",
+    "college": "Liberal Arts"
+  },
+  {
+    "name": "Economics, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/economics-bs/",
+    "college": "Liberal Arts"
+  },
+  {
+    "name": "English, B.A. (Liberal Arts)",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/english-ba/",
+    "college": "Liberal Arts"
+  },
+  {
+    "name": "French and Francophone Studies, B.A.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/french-francophone-studies-ba/",
+    "college": "Liberal Arts"
+  },
+  {
+    "name": "French and Francophone Studies, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/french-francophone-studies-bs/",
+    "college": "Liberal Arts"
+  },
+  {
+    "name": "German, B.A.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/german-ba/",
+    "college": "Liberal Arts"
+  },
+  {
+    "name": "German, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/german-bs/",
+    "college": "Liberal Arts"
+  },
+  {
+    "name": "Global and International Studies, B.A.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/global-international-studies-ba/",
+    "college": "Liberal Arts"
+  },
+  {
+    "name": "Global and International Studies, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/global-international-studies-bs/",
+    "college": "Liberal Arts"
+  },
+  {
+    "name": "History, B.A. (Liberal Arts)",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/history-ba/",
+    "college": "Liberal Arts"
+  },
+  {
+    "name": "Integrated Social Sciences, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/integrated-social-sciences-bs/",
+    "college": "Liberal Arts"
+  },
+  {
+    "name": "International Politics, B.A.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/international-politics-ba/",
+    "college": "Liberal Arts"
+  },
+  {
+    "name": "Italian, B.A.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/italian-ba/",
+    "college": "Liberal Arts"
+  },
+  {
+    "name": "Italian, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/italian-bs/",
+    "college": "Liberal Arts"
+  },
+  {
+    "name": "Japanese, B.A.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/japanese-ba/",
+    "college": "Liberal Arts"
+  },
+  {
+    "name": "Jewish Studies, B.A.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/jewish-studies-ba/",
+    "college": "Liberal Arts"
+  },
+  {
+    "name": "Korean, B.A.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/korean-ba/",
+    "college": "Liberal Arts"
+  },
+  {
+    "name": "Labor and Human Resources, B.A.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/labor-human-resources-ba/",
+    "college": "Liberal Arts"
+  },
+  {
+    "name": "Labor and Human Resources, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/labor-human-resources-bs/",
+    "college": "Liberal Arts"
+  },
+  {
+    "name": "Latin American Studies, B.A.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/latin-american-studies-ba/",
+    "college": "Liberal Arts"
+  },
+  {
+    "name": "Law and Society, B.A.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/law-society-ba/",
+    "college": "Liberal Arts"
+  },
+  {
+    "name": "Linguistics, B.A.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/linguistics-ba/",
+    "college": "Liberal Arts"
+  },
+  {
+    "name": "Medieval Studies, B.A.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/medieval-studies-ba/",
+    "college": "Liberal Arts"
+  },
+  {
+    "name": "Middle East Studies, B.A.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/middle-east-studies-ba/",
+    "college": "Liberal Arts"
+  },
+  {
+    "name": "Multidisciplinary Studies, B.A. (Liberal Arts)",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/multidisciplinary-studies-ba/",
+    "college": "Liberal Arts"
+  },
+  {
+    "name": "Organizational and Professional Communication, B.A.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/organizational-professional-communication-ba/",
+    "college": "Liberal Arts"
+  },
+  {
+    "name": "Organizational and Professional Communication, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/organizational-professional-communication-bs/",
+    "college": "Liberal Arts"
+  },
+  {
+    "name": "Organizational Leadership, B.A.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/organizational-leadership-ba/",
+    "college": "Liberal Arts"
+  },
+  {
+    "name": "Organizational Leadership, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/organizational-leadership-bs/",
+    "college": "Liberal Arts"
+  },
+  {
+    "name": "Philosophy, B.A.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/philosophy-ba/",
+    "college": "Liberal Arts"
+  },
+  {
+    "name": "Philosophy, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/philosophy-bs/",
+    "college": "Liberal Arts"
+  },
+  {
+    "name": "Political Science, B.A. (Liberal Arts)",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/political-science-ba/",
+    "college": "Liberal Arts"
+  },
+  {
+    "name": "Political Science, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/political-science-bs/",
+    "college": "Liberal Arts"
+  },
+  {
+    "name": "Psychology, B.A. (Liberal Arts)",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/psychology-ba/",
+    "college": "Liberal Arts"
+  },
+  {
+    "name": "Psychology, B.S. (Liberal Arts)",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/psychology-bs/",
+    "college": "Liberal Arts"
+  },
+  {
+    "name": "Russian, B.A.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/russian-ba/",
+    "college": "Liberal Arts"
+  },
+  {
+    "name": "Social Data Analytics, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/social-data-analytics-bs/",
+    "college": "Liberal Arts"
+  },
+  {
+    "name": "Sociology, B.A.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/sociology-ba/",
+    "college": "Liberal Arts"
+  },
+  {
+    "name": "Sociology, B.S. (Liberal Arts)",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/sociology-bs/",
+    "college": "Liberal Arts"
+  },
+  {
+    "name": "Spanish, B.A.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/spanish-ba/",
+    "college": "Liberal Arts"
+  },
+  {
+    "name": "Spanish, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/spanish-bs/",
+    "college": "Liberal Arts"
+  },
+  {
+    "name": "Women's, Gender, and Sexuality Studies, B.A.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/womens-gender-sexuality-studies-ba/",
+    "college": "Liberal Arts"
+  },
+  {
+    "name": "Women's, Gender, and Sexuality Studies, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/womens-gender-sexuality-studies-bs/",
+    "college": "Liberal Arts"
+  },
+  {
+    "name": "Accounting, B.S. (Business)",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/smeal-business/accounting-bs/",
+    "college": "Smeal Business"
+  },
+  {
+    "name": "Actuarial Science, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/smeal-business/actuarial-science-bs/",
+    "college": "Smeal Business"
+  },
+  {
+    "name": "Business Analytics and Information Systems, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/smeal-business/business-analytics-information-systems-bs/",
+    "college": "Smeal Business"
+  },
+  {
+    "name": "Corporate Innovation and Entrepreneurship, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/smeal-business/corporate-innovation-entrepreneurship-bs/",
+    "college": "Smeal Business"
+  },
+  {
+    "name": "Finance, B.S. (Business)",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/smeal-business/finance-bs/",
+    "college": "Smeal Business"
+  },
+  {
+    "name": "Management, B.S. (Business)",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/smeal-business/management-bs/",
+    "college": "Smeal Business"
+  },
+  {
+    "name": "Marketing, B.S. (Business)",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/smeal-business/marketing-bs/",
+    "college": "Smeal Business"
+  },
+  {
+    "name": "Real Estate, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/smeal-business/real-estate-bs/",
+    "college": "Smeal Business"
+  },
+  {
+    "name": "Risk Management, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/smeal-business/risk-management-bs/",
+    "college": "Smeal Business"
+  },
+  {
+    "name": "Supply Chain and Information Systems, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/smeal-business/supply-chain-information-systems-bs/",
+    "college": "Smeal Business"
+  },
+  {
+    "name": "Astronomy and Astrophysics, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/eberly-science/astronomy-astrophysics-bs/",
+    "college": "Eberly Science"
+  },
+  {
+    "name": "Biochemistry and Molecular Biology, B.S. (Science)",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/eberly-science/biochemistry-molecular-biology-bs/",
+    "college": "Eberly Science"
+  },
+  {
+    "name": "Biology, B.S. (Science)",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/eberly-science/biology-bs/",
+    "college": "Eberly Science"
+  },
+  {
+    "name": "Biotechnology, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/eberly-science/biotechnology-bs/",
+    "college": "Eberly Science"
+  },
+  {
+    "name": "Chemistry, B.S. (Science)",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/eberly-science/chemistry-bs/",
+    "college": "Eberly Science"
+  },
+  {
+    "name": "Data Sciences, B.S. (Science)",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/eberly-science/data-sciences-bs/",
+    "college": "Eberly Science"
+  },
+  {
+    "name": "Forensic Science, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/eberly-science/forensic-science-bs/",
+    "college": "Eberly Science"
+  },
+  {
+    "name": "Integrative Science, B.S. (Science)",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/eberly-science/integrative-science-bs/",
+    "college": "Eberly Science"
+  },
+  {
+    "name": "Mathematics, B.A.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/eberly-science/mathematics-ba/",
+    "college": "Eberly Science"
+  },
+  {
+    "name": "Mathematics, B.S. (Science)",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/eberly-science/mathematics-bs/",
+    "college": "Eberly Science"
+  },
+  {
+    "name": "Microbiology, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/eberly-science/microbiology-bs/",
+    "college": "Eberly Science"
+  },
+  {
+    "name": "Neurobiology, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/eberly-science/neurobiology-bs/",
+    "college": "Eberly Science"
+  },
+  {
+    "name": "Physics, B.S. (Science)",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/eberly-science/physics-bs/",
+    "college": "Eberly Science"
+  },
+  {
+    "name": "Planetary Science and Astronomy, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/eberly-science/planetary-science-and-astronomy-bs/",
+    "college": "Eberly Science"
+  },
+  {
+    "name": "Premedical-\u200bMedical, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/eberly-science/premedical-medical-bs/",
+    "college": "Eberly Science"
+  },
+  {
+    "name": "Premedicine, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/eberly-science/premedicine-bs/",
+    "college": "Eberly Science"
+  },
+  {
+    "name": "Science, B.S./\u200bBusiness Administration, M.B.A.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/eberly-science/science-bs-business-administration-mba/",
+    "college": "Eberly Science"
+  },
+  {
+    "name": "Statistics, B.S.",
+    "link": "https://bulletins.psu.edu/undergraduate/colleges/eberly-science/statistics-bs/",
+    "college": "Eberly Science"
+  }
+]

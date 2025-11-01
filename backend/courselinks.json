@@ -1,0 +1,406 @@
+[
+  {
+    "name": "Accounting (ACCTG)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/acctg/"
+  },
+  {
+    "name": "Acoustics (ACS)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/acs/"
+  },
+  {
+    "name": "Adult Education (ADTED)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/adted/"
+  },
+  {
+    "name": "Aerospace Engineering (AERSP)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/aersp/"
+  },
+  {
+    "name": "African American Studies (AFAM)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/afam/"
+  },
+  {
+    "name": "African Studies (AFR)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/afr/"
+  },
+  {
+    "name": "Agribusiness Management (AGBM)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/agbm/"
+  },
+  {
+    "name": "Agricultural and Biorenewable Systems Management (ABSM)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/absm/"
+  },
+  {
+    "name": "Agricultural and Extension Education (AEE)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/aee/"
+  },
+  {
+    "name": "Agricultural Communications (AGCOM)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/agcom/"
+  },
+  {
+    "name": "Agricultural Science (AGSC)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/agsc/"
+  },
+  {
+    "name": "Agricultural Systems Management (ASM)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/asm/"
+  },
+  {
+    "name": "Agriculture (AG)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/ag/"
+  },
+  {
+    "name": "Agroecology (AGECO)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/ageco/"
+  },
+  {
+    "name": "Agronomy (AGRO)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/agro/"
+  },
+  {
+    "name": "Air Force (AIR)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/air/"
+  },
+  {
+    "name": "American Studies (AMST)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/amst/"
+  },
+  {
+    "name": "Animal Science (ANSC)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/ansc/"
+  },
+  {
+    "name": "Anthropology (ANTH)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/anth/"
+  },
+  {
+    "name": "Applied Behavior Analysis (ABA)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/aba/"
+  },
+  {
+    "name": "Applied Linguistics (APLNG)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/aplng/"
+  },
+  {
+    "name": "Applied Youth, Family and Community Education (AYFCE)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/ayfce/"
+  },
+  {
+    "name": "Arabic (ARAB)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/arab/"
+  },
+  {
+    "name": "Architectural Engineering (AE)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/ae/"
+  },
+  {
+    "name": "Architectural Engineering Technology (AET)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/aet/"
+  },
+  {
+    "name": "Architecture (ARCH)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/arch/"
+  },
+  {
+    "name": "Army (ARMY)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/army/"
+  },
+  {
+    "name": "Art (ART)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/art/"
+  },
+  {
+    "name": "Art Education (AED)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/aed/"
+  },
+  {
+    "name": "Art History (ARTH)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/arth/"
+  },
+  {
+    "name": "Artificial Intelligence (A-I)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/a-i/"
+  },
+  {
+    "name": "Artificial Intelligence Engineering (AIE)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/aie/"
+  },
+  {
+    "name": "Artificial Intelligence Methods and Applications (AIMA)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/aima/"
+  },
+  {
+    "name": "Arts Administration (ARTSA)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/artsa/"
+  },
+  {
+    "name": "Arts and Architecture (AA)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/aa/"
+  },
+  {
+    "name": "Asian American Studies (AAS)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/aas/"
+  },
+  {
+    "name": "Asian Studies (ASIA)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/asia/"
+  },
+  {
+    "name": "Astronomy and Astrophysics (ASTRO)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/astro/"
+  },
+  {
+    "name": "Athletic Training (ATHTR)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/athtr/"
+  },
+  {
+    "name": "Behavioral Sciences - CA (BESC)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/besc/"
+  },
+  {
+    "name": "Biobehavioral Health (BBH)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/bbh/"
+  },
+  {
+    "name": "Biochemistry and Molecular Biology (BMB)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/bmb/"
+  },
+  {
+    "name": "Bioethics (BIOET)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/bioet/"
+  },
+  {
+    "name": "Bioethics and Medical Humanities (BMH)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/bmh/"
+  },
+  {
+    "name": "Biological Engineering (BE)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/be/"
+  },
+  {
+    "name": "Biological Science (BISC)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/bisc/"
+  },
+  {
+    "name": "Biology (BIOL)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/biol/"
+  },
+  {
+    "name": "Biomedical Engineering (BME)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/bme/"
+  },
+  {
+    "name": "Biomedical Engineering Technology (BE_T)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/be_t/"
+  },
+  {
+    "name": "Biorenewable Systems (BRS)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/brs/"
+  },
+  {
+    "name": "Biotechnology (BIOTC)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/biotc/"
+  },
+  {
+    "name": "Business Administration (BA)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/ba/"
+  },
+  {
+    "name": "Business Law (BLAW)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/blaw/"
+  },
+  {
+    "name": "Chemical Engineering (CHE)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/che/"
+  },
+  {
+    "name": "Chemistry (CHEM)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/chem/"
+  },
+  {
+    "name": "Chinese (CHNS)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/chns/"
+  },
+  {
+    "name": "Civil Engineering (CE)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/ce/"
+  },
+  {
+    "name": "Communication Arts and Sciences (CAS)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/cas/"
+  },
+  {
+    "name": "Communication Sciences and Disorders (CSD)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/csd/"
+  },
+  {
+    "name": "Communications (COMM)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/comm/"
+  },
+  {
+    "name": "Computer Science (CMPSC)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/cmpsc/"
+  },
+  {
+    "name": "Criminology (CRIM)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/crim/"
+  },
+  {
+    "name": "Cybersecurity Analytics and Operations (CYBER)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/cyber/"
+  },
+  {
+    "name": "Data Sciences (DS)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/ds/"
+  },
+  {
+    "name": "Economics (ECON)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/econ/"
+  },
+  {
+    "name": "Electrical Engineering (EE)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/ee/"
+  },
+  {
+    "name": "English (ENGL)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/engl/"
+  },
+  {
+    "name": "Enterprise Technology Integration (ETI)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/eti/"
+  },
+  {
+    "name": "Finance (FIN)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/fin/"
+  },
+  {
+    "name": "Food Science (FDSC)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/fdsc/"
+  },
+  {
+    "name": "French (FR)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/fr/"
+  },
+  {
+    "name": "Geography (GEOG)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/geog/"
+  },
+  {
+    "name": "Geosciences (GEOSC)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/geosc/"
+  },
+  {
+    "name": "German (GER)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/ger/"
+  },
+  {
+    "name": "Health Policy and Administration (HPA)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/hpa/"
+  },
+  {
+    "name": "History (HIST)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/hist/"
+  },
+  {
+    "name": "Human Development and Family Studies (HDFS)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/hdfs/"
+  },
+  {
+    "name": "Human-Centered Design and Development (HCDD)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/hcdd/"
+  },
+  {
+    "name": "Industrial Engineering (IE)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/ie/"
+  },
+  {
+    "name": "Information Sciences and Technology (IST)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/ist/"
+  },
+  {
+    "name": "Kinesiology (KINES)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/kines/"
+  },
+  {
+    "name": "Management (MGMT)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/mgmt/"
+  },
+  {
+    "name": "Management Information Systems (MIS)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/mis/"
+  },
+  {
+    "name": "Marketing (MKTG)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/mktg/"
+  },
+  {
+    "name": "Mathematics (MATH)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/math/"
+  },
+  {
+    "name": "Mechanical Engineering (ME)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/me/"
+  },
+  {
+    "name": "Meteorology (METEO)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/meteo/"
+  },
+  {
+    "name": "Microbiology (MICRB)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/micrb/"
+  },
+  {
+    "name": "Music (MUSIC)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/music/"
+  },
+  {
+    "name": "Nursing (NURS)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/nurs/"
+  },
+  {
+    "name": "Nutrition (NUTR)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/nutr/"
+  },
+  {
+    "name": "Philosophy (PHIL)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/phil/"
+  },
+  {
+    "name": "Physics (PHYS)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/phys/"
+  },
+  {
+    "name": "Political Science (PLSC)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/plsc/"
+  },
+  {
+    "name": "Psychology (PSYCH)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/psych/"
+  },
+  {
+    "name": "Sociology (SOC)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/soc/"
+  },
+  {
+    "name": "Spanish (SPAN)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/span/"
+  },
+  {
+    "name": "Statistics (STAT)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/stat/"
+  },
+  {
+    "name": "Supply Chain Management (SCM)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/scm/"
+  },
+  {
+    "name": "Theatre (THEA)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/thea/"
+  },
+  {
+    "name": "Women's Gender and Sexuality Studies (WGSS)",
+    "link": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/wgss/"
+  }
+]
